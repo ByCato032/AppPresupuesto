@@ -33,11 +33,12 @@ body {
     padding-bottom: 100px;
     color: #fff;
     background: url(fondo.png), #7b4397;
-    background: url(fondo.png), -webkit-gradient(linear, right top, left top, from(#7b4397), to(#dc2430));
-    background: url(fondo.png), linear-gradient(to left, #7b4397, #dc2430)
+    background: url(fondo.png), -webkit-gradient(linear, right top, left top, from(#7b4397), to(#24c0dc));
+    background: url(fondo.png), linear-gradient(to left, #7b4397, #248fdc)
 }
 
 .presupuesto {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
     width: 350px;
     top: 50%;
