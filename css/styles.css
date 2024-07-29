@@ -32,9 +32,9 @@ body {
     padding-top: 150px;
     padding-bottom: 100px;
     color: #fff;
-    background: url(fondo.png), #7b4397;
-    background: url(fondo.png), -webkit-gradient(linear, right top, left top, from(#7b4397), to(#24c0dc));
-    background: url(fondo.png), linear-gradient(to left, #7b4397, #248fdc)
+    background: url(fondo.png), #4a9c5f;
+    background: url(fondo.png), -webkit-gradient(linear, right top, left top, from(#43977b), to(#dc2a24));
+    background: url(fondo.png), linear-gradient(to left, #974343, #24dc92)
 }
 
 .presupuesto {
@@ -192,8 +192,8 @@ h2 {
     margin-bottom: 15px;
 }
 
-.ingreso_titulo { color: #28B9B5; }
-.egreso_titulo { color: #FF5049; }
+.ingreso_titulo { color: #28B9B5; font-family:'Lucida Sans';}
+.egreso_titulo { color: #FF5049; font-family: 'Lucida Sans';}
 
 .elemento {
     padding: 13px;
